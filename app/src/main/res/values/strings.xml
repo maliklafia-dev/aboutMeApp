@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">AboutMe</string>
+    <string name="name">Malik LAFIA</string>
+    <string name="Yellow_star">Yellow start</string>
+    <string name="bio_text">
+        Hey, I\'m Malik LAFIA, a passionate and driven developer motivated by
+        creating and enhancing various projects. You earned your high school diploma
+        in 2018 in Benin and a Bachelor\'s degree in Information Systems with highest
+        honors in 2022 in Dakar. You have experience in back-end and front-end development,
+        particularly with Node.js, Angular, Symfony, and API Platform. Currently, you are seeking
+        an apprenticeship and working on several projects, including a fitness tracking mobile
+        application, with a methodical and innovative approach.
+        I also have a strong interest in personal organization, developing diverse skill,
+        (like Kotlin or CI/CD pipelines), and improving your physical and mental well-being.
+        Your goal is to become the best version of yourself while sharing your journey with
+        your audience on social media.
+    </string>
+    <string name="What_is_your_nick_name">What is your nickname ?</string>
+    <string name="done_button">Done</string>
+</resources>
